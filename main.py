@@ -43,7 +43,7 @@ def index():
             <title>Some HTML in here</title>
         </head>
         <body>
-            <h1 style="color": 0x0000ff>HTMLにいらっしゃい！！</h1>
+            <h1 style="background-color: #D4FB79;>"HTMLにいらっしゃい！！</h1>
         </body>
     </html>
     """
